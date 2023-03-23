@@ -1,16 +1,24 @@
-### Hi there 👋
+<div id="header" aling="center">
+    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+    <hi aling="center">HI👋 </hi>
+    <h3 aling="center">I am a software development student interested in learning Java,
+         cybersecurity, and networking.
+        </h3>
+</div>
 
-<!--
-**CANALERO12/CANALERO12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧐 About Me:
+- 🔭 I’m currently working on **Java**
+- 🌱 I’m currently learning  **advanced java, Mysql, python**
+<div aling="left">
+    <h3>🔨 lenguages and Tools:</h3>
+</div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" alt="JAVA"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="JAVA" alt="JAVA"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="JAVA" alt="JAVA"
+    width="40" height="40"/>
+    </div>
+</div>
