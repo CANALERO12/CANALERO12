@@ -13,7 +13,7 @@
 <div align="left">
   <h3>🔨 Languages and Tools:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40">
+  ![C++ Icon](https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true "C++ Icon")
 </div>
 
 --- 
